@@ -48,4 +48,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 Special thanks to Atulya Kaushik - PrepInsta for their inspiration, guidance, and support during the development of this project.
-```
